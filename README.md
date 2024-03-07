@@ -1,3 +1,4 @@
 # PARK NA HYUN
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=from_owol)](https://solved.ac/from_owol/)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
